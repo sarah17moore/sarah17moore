@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sarah17moore - Sarah Kathleen Moore *pronouns she/ her/ hers*
+- 👋 Hi, I’m @sarah17moore - Sarah Kathleen Moore
 - 👩🏼‍💻 My background is in customer service, Academic Technology, and Instructional Design for higher education
 - 💱 I will be graduating December 2022 with a Bachelor's of Science in Economics from Oregon State University *Go Beavers!!!*
 - 📈 I'm currently learning Data Analytics and Visualization through University of Oregon - to be completed in February 2023 *Go Ducks!!!*

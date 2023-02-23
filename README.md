@@ -4,7 +4,7 @@
 - 👩🏼‍💻 My background is in customer service, Academic Technology, and Instructional Design for higher education
 - 📫 How to reach me: Through Slack or email - sarah17moore@gmail.com | LinkedIn - https://www.linkedin.com/in/sarah-17-moore/
      
-*Check out my group project from my Data Analytics and Visualization Bootcamp Certificate Course!* 
+*Check out our group project from my Data Analytics and Visualization Bootcamp Certificate Course!* 
 
 *https://github.com/SEngel23/Billionaire_Analysis*
 

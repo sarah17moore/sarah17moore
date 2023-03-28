@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sarah17moore - Sarah Kathleen Moore
-- 📈 I'm currently learning Data Analytics and Visualization through University of Oregon - to be completed in February 2023 *Go Ducks!!!*
+- 👩‍💻 I am a Business Intelligence Analyst with a focus in data driven results
+- 📈 I graduated in February 2023 from a Data Analytics and Visualization certificate course from University of Oregon *Woohoo!! Go Ducks!!!*
 - 💱 I graduated in December 2022 with a Bachelor's of Science in Economics from Oregon State University *Woohoo!! Go Beavers!!!*
 - 👩🏼‍💻 My background is in customer service, Academic Technology, and Instructional Design for higher education
 - 📫 How to reach me: Through Slack or email - sarah17moore@gmail.com | LinkedIn - https://www.linkedin.com/in/sarah-17-moore/
